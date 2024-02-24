@@ -28,19 +28,25 @@
 # COMO FUNCIONA:
 
 **Adicionando Registro**
-[Adicionando_Registro.webm](https://github.com/Iagosilva019/Registro_de_venda/assets/92806149/83b0ce01-e670-42a9-b327-7afd4c53abf2)
+
+[Adicionando_Registro.webm](https://github.com/Iagosilva019/Registrador-de-Vendas/assets/92806149/e1773123-ed4a-43cf-9390-4a28190ea9f4)
+
 
 **Editando Registro**  --
-[Editando_Registros.webm](https://github.com/Iagosilva019/Registro_de_venda/assets/92806149/ab2b5af6-f26b-45bf-95bf-f297464948c2)
+
+[Editando_Registros.webm](https://github.com/Iagosilva019/Registrador-de-Vendas/assets/92806149/e2bf8147-797e-4ccd-b5ff-101451a8f982)
 
 **Excluindo Registro** --
-[Excluindo_Registro.webm](https://github.com/Iagosilva019/Registro_de_venda/assets/92806149/6bfde49d-cbbf-4e2b-b437-8335724a5f4b)
+
+[Excluindo_Registro.webm](https://github.com/Iagosilva019/Registrador-de-Vendas/assets/92806149/1a8e88a5-8667-4a37-9d1d-e8cca9e05e9d)
 
 **Gerando um Novo Gráfico**
-[Gerando_Novo_Grafico.webm](https://github.com/Iagosilva019/Registro_de_venda/assets/92806149/cdc08927-4b7e-4c72-826a-8ea39e102396)
+
+[Gerando_Novo_Grafico.webm](https://github.com/Iagosilva019/Registrador-de-Vendas/assets/92806149/e1cd1b29-fc2a-4480-a1f4-5aa713f62076)
 
 **Exportando Registros**
-[Exportando_Registros.webm](https://github.com/Iagosilva019/Registro_de_venda/assets/92806149/d0253709-9a4b-4de2-b269-41d1e14f35ac)
+
+[Exportando_Registros.webm](https://github.com/Iagosilva019/Registrador-de-Vendas/assets/92806149/1c9c17cf-a23e-4886-8832-b40fb828811e)
 
 
 
