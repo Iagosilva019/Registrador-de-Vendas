@@ -50,26 +50,9 @@
 
 
 
-
-
-
 # Instalando e Executando:
     
-```
-git clone https://github.com/Iagosilva019/Registro_de_venda
-```
-    
-```
-cd Registro_de_venda
-```
-    
-```
- chmod +x Registrador_de_Vendas0.1
-```
 
-```
-  ./Registrador_de_Vendas0.1
-```
 
   
 # Contato:
